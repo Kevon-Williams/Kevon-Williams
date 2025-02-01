@@ -32,11 +32,3 @@ A software engineer passionate about building systems and solving complex proble
 
 ## 🌱 Currently Learning
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white)
-![Game Design](https://img.shields.io/badge/Game_Design-000000?style=flat&logo=unity&logoColor=white)
-
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevon-williams1/)
-
----
-📫 Reach me at: [kevonreuwilliams@gmail.com](mailto:kevonreuwilliams@gmail.com)
