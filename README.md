@@ -2,8 +2,6 @@
 
 # Hi, I'm Kevon 👋
 
-A software engineer passionate about building systems and solving complex problems.
-
 ## 🛠️ Tech Stack
 
 ### 🔧 Languages & Frameworks
