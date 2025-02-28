@@ -25,5 +25,3 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![AstraDB](https://img.shields.io/badge/AstraDB-00E8FF?style=flat&logo=apache-cassandra&logoColor=white)
 
-## 🌱 Currently Learning
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
